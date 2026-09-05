@@ -5,26 +5,6 @@
 
 ---
 
-## Features
-
-- **10-question**, one-at-a-time quiz with a progress bar, smooth
-  transitions, and a "Back" button that remembers previous answers
-- Includes two playful, personal questions — "Maggie mili ya nahi, mam?"
-  and "Aaj dance karne ka mann hai ya nahi, mam?" — which act only as
-  small *supporting* signals and never dominate the prediction on their own
-- A rule-based **mood engine** (pure Python, no AI/ML) that scores every
-  answer against 12 mood categories and combines them into a primary +
-  secondary mood
-- Energy level, a 0–100 animated social battery bar, and an overthinking
-  level, each computed from the same answers
-- 20+ hand-written, natural **Hinglish** result messages ("So, meri Mahila
-  Mitra ka mood...") for different mood combinations, with sensible
-  fallbacks for anything not explicitly listed
-- A soft pink/lavender/peach glassmorphism design with a floating "mood
-  orb" background, built mobile-first
-- SQLite database that stores only the mood *outcome* (no names, no
-  answers, no personal data)
-
 ---
 
 ## How Mood Prediction Works
@@ -302,8 +282,4 @@ anything looks off).
 
 ## Disclaimer
 
-Mahila Mitra is a fun, personalized entertainment app. It uses a simple
-rule-based scoring system on self-reported answers and is **not** a
-medical, psychological, or diagnostic tool. If you or someone you know is
-struggling, please reach out to a real person you trust or a mental
-health professional.
+
