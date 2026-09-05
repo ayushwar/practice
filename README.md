@@ -1,10 +1,4 @@
-# Mahila Mitra — Mood Predictor 🌸
-
-A cute, personalized mood-prediction web app, built for a friend ("mam").
-It asks 10 playful, natural questions about the day, feelings, and
-behavior, then looks at the **combination** of all the answers to guess a
-current mood — primary mood, secondary mood, energy, social battery, and
-overthinking level — wrapped in a friendly, personalized Hinglish message.
+.
 
 > **Disclaimer:** This is a fun entertainment app. It is **not** a medical,
 > psychological, or diagnostic tool.
